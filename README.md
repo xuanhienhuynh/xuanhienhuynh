@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hienhuynhxuan" alt="hienhuynhxuan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hien_huynhx_uan" target="blank"><img src="https://img.shields.io/twitter/follow/hien_huynhx_uan?logo=twitter&style=for-the-badge" alt="hien_huynhx_uan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hien_huynh_xuan" target="blank"><img src="https://img.shields.io/twitter/follow/hien_huynh_xuan?logo=twitter&style=for-the-badge" alt="hien_huynh_xuan" /></a> </p>
 
 - 📫 How to reach me **hien.huynhxuan133@gmail.com**
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hien_huynhx_uan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hien_huynhx_uan" height="30" width="40" /></a>
+<a href="https://twitter.com/hien_huynh_xuan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hien_huynh_xuan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hienhuynhxuan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hienhuynhxuan" height="30" width="40" /></a>
 <a href="https://instagram.com/hien.h.x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hien.h.x" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hien_hx133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hien_hx133" height="30" width="40" /></a>
@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hienhuynhxuan&show_icons=true&locale=en" alt="hienhuynhxuan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hienhuynhxuan&" alt="hienhuynhxuan" /></p>
+
 
 
 

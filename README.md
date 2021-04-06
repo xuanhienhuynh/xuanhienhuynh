@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/hien_huynhx_uan" target="blank"><img src="https://img.shields.io/twitter/follow/hien_huynhx_uan?logo=twitter&style=for-the-badge" alt="hien_huynhx_uan" /></a> </p>
 
+- 📫 How to reach me **hien.huynhxuan133@gmail.com**
+
+- ⚡ Fun fact **Tomorrow will be better**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hien_huynhx_uan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hien_huynhx_uan" height="30" width="40" /></a>

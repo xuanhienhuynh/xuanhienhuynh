@@ -76,7 +76,7 @@
 
 ### Hi there 👋, my name is Hien
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://github.com/xuanhienhuynh/xuanhienhuynh/blob/main/baner1.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/xuanhienhuynh/xuanhienhuynh/blob/main/banner.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 

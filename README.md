@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **xuanhienhuynh/xuanhienhuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,8 +24,9 @@ Here are some ideas to get you started:
 
 #
 
-<h1 align="center">Hi 👋, I'm Hien</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
+<h1 align="center">👋 Hi, May I help you.</h1>
+<h3 align="center">Welcome to my page!</h3>
+<h3>I'm Hien, Fullstack developer from  HCMcity, Vietnam.A passionate backend developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hienhuynhxuan&label=Profile%20views&color=0e75b6&style=flat" alt="hienhuynhxuan" /> </p>
 

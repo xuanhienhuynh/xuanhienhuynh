@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/hien_huynhx_uan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hien_huynhx_uan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hienhuynhxuan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hienhuynhxuan" height="30" width="40" /></a>
+<a href="https://instagram.com/hien.h.x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hien.h.x" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hien_hx133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hien_hx133" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
